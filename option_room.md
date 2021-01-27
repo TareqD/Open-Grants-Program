@@ -4,9 +4,9 @@
 
 > This page is also available in [Chinese (中文)](./application-template-cn.md).
 
-* **Option Room:** Name of your project (e.g. DuoSwap Module)
-* **OR:** Legal name of your team (e.g. Duo)
-* **NA:** BTC or Ethereum (DAI) payment address. We don't accept payments for the program in other currencies at this stage. (e.g. 123mp123...)
+* **Project Name:** OptionRoom
+* **Team Name:** OR Technology
+* **Payment Address:** 0xF735A0Fd8207B8cCbC275a52881cbAeC5EEF2B38
 
 *The above combination of your GitHub account submitting the application and payment address will be your unique identifier during the program. Please keep them safe.*
 
@@ -16,48 +16,63 @@ If this application in response to an RFP then please indicate this on the first
 ### Overview
 
 Please provide the following:
-  * A brief description of the project.
+  * A brief description of the project:
+  OptionRoom is a user governed oracle and forecast protocol built on Polkadot.
   * An indication of how you will integrate this project into Substrate / Polkadot / Kusama.
+  We're going to build the project on Substrate after successfully launching on the Ethereum network. Our on-chain governance will be implemented on polkadot
   * An indication of why your team is interested in creating this project.
+  We found something that can add value to the crypto space and a unique approach to the oracle, and we're very eager to make it happen. 
 
 ### Project Details 
 We expect the teams to already have a solid idea about the project's expected final state.
 
 Therefore, we ask the teams to submit (where relevant):
-* Mockups/designs of any UI components
-* API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
+* We are going to provide our whitepaper, it contains documentation of core components and all the detailed struture of our project.
+* Whitepaper Can be found at: 
+https://github.com/OptionRoom/OptionRoom-Whitepaper/blob/main/OptionRoom_Whitepaper.pdf
 
 ### Ecosystem Fit 
-Are there any other projects similar to yours? If so, how is your project different?
+Our project has 2 main components:
+* Oracle:
+    Our approach to the oracle is based on community voting and does not require any external data sources to acquire data, its completely community based (human oracle). We can complement the other oracles by supplying data they cant access, 
+    such as certain types of verification (news, insurance claims). 
+* Forecast Market:
+    There are a few forecast market projects on the market, and we add value in this arena by providing a truly limitless forecast market protocol, where the choices and markets are not limited to a certain structure, 
+    and initially verified by our governance to make sure we only list high quality markets. In addition to that, we have a solid user incentive program that includes a buy-back mechanism which with enough protocol 
+    usage allows for reward generation without having to mint extra tokens, and this gives the opportunity of a sustainable long-term reward program.
+
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 * Name of team leader
+Marsel Adawi
 * Names of team members	
+Tareq Doufish (Solidity developer/Devops Engineer)
+Wajed Afaneh (CTO)
+Nasser Najjar (Solidity developer/System Architecture)
 
 ### Contact
-* **Contact Name:** Full name of the contact person (e.g. John Brown)
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* Website
+* **Contact Name:** Marsel Adawi
+* **Contact Email:** marsel@optionroom.finance
+* Website: optionroom.finance
 
 ### Legal Structure 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it on one line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Registered Address:** Wickhams Cay II, Road Town, Torola, VG1110, British Virgin Islands
+* **Registered Legal Entity:** OR TECHNOLOGY LIMITED - BVI resgistration number: 2051293
 
 ### Team's experience
 Please describe the team's relevant experience.  If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.  
 
 ### Team Code Repos
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
 
 ### Team LinkedIn Profiles
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+http://www.linkedin.com/in/marsel-adawi
+https://www.linkedin.com/in/tareq-doufish-2270279/
+https://www.linkedin.com/in/wajedafaneh/
+https://www.linkedin.com/in/nasser-najjar/
+https://www.linkedin.com/in/jackngc/ (Advisor)
+https://www.linkedin.com/in/0xchristom/ (Advisor)
 
 ## Development Roadmap :nut_and_bolt: 
 

@@ -90,7 +90,7 @@ ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is pla
 ### Overview
 * **Total Estimated Duration:** 5 Months
 * **Full-time equivalent (FTE):**  3 FTE
-* **Total Costs:** 50k DIA
+* **Total Costs:** 50k DAI
 
 ### Milestone 1: Implementation of protocole
 * **Estimated Duration:** 3 months

@@ -21,25 +21,21 @@ Please provide the following:
   * An indication of how you will integrate this project into Substrate / Polkadot / Kusama.
   We're going to build the project on Substrate after successfully launching on the Ethereum network. Our on-chain governance will be implemented on polkadot
   * An indication of why your team is interested in creating this project.
-We want to add value to the crypto and Polkadot ecosystem by implementing a prediction market protocol with user incentives and filling gaps in the current oracle solutions available by introducing an oracle as a service.
+We want to add value to the crypto and Polkadot ecosystem by implementing a prediction market protocol with user incentives and filling gaps in the current oracle solutions available by introducing an oracle as a service solution where oracle requests are solved by governance.
 
 ### Project Details 
 We expect the teams to already have a solid idea about the project's expected final state.
 
 Therefore, we ask the teams to submit (where relevant):
-* We are going to provide our whitepaper, it contains documentation of core components and all the detailed struture of our project.
-* Whitepaper Can be found at: 
-https://github.com/OptionRoom/OptionRoom-Whitepaper/blob/main/OptionRoom_Whitepaper.pdf
+* Our whitepaper, contains documentation of core components and all the detailed struture of our project.
+OptionRoom Whitepaper: https://github.com/OptionRoom/OptionRoom-Whitepaper/blob/main/OptionRoom_Whitepaper.pdf
 
 ### Ecosystem Fit 
 Our project has 2 main components:
 * Oracle:
-    Our approach to the oracle is based on community voting and does not require any external data sources to acquire data, its completely community based (human oracle). We can complement the other oracles by supplying data they cant access, 
-    such as certain types of verification (news, insurance claims). 
+    Oracle: Our approach to the oracle is based on community voting and does not require any external data sources to acquire data, its completely community based (human oracle). We can complement the other oracles by supplying data they can’t access, such as certain types of verification (news, insurance claims).
 * Forecast Market:
-    There are a few forecast market projects on the market, and we add value in this arena by providing a truly limitless forecast market protocol, where the choices and markets are not limited to a certain structure, 
-    and initially verified by our governance to make sure we only list high quality markets. In addition to that, we have a solid user incentive program that includes a buy-back mechanism which with enough protocol 
-    usage allows for reward generation without having to mint extra tokens, and this gives the opportunity of a sustainable long-term reward program.
+    Forecast Market: Currently there are a few forecast market projects on the market but most of them have failed to acquire an active user-base and community. We want to add value to the Polkadot ecosystem by introducing a truly limitless forecast market protocol where the forecast marketplace is governed by the community. The choices and markets are not limited to a certain structure, and initially verified by our governance to make sure we only list high quality markets. Our incentive mechanism will ensure that our honest protocol participants are rewarded and bad actors are punished. All the protocol fees go back to the protocol in form of buy-back mechanisms providing a sustainable long-term incentive model. We aim to make the forecast market creation and participation easy, intuitive and seamless by putting heavy resources into UI/UX development.
 
 
 ## Team :busts_in_silhouette:

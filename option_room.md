@@ -95,12 +95,12 @@ ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is pla
 ### Milestone 1: Implementation of protocole
 * **Estimated Duration:** 3 months
 * **FTE:**  3
-* **Costs:** 30k DIA
+* **Costs:** 30k DAI
 
 ### Milestone 2: Web UI, Documentation & Tutorials
 * **Estimated Duration:** 2 months
 * **FTE:**  3
-* **Costs:** 20k DIA
+* **Costs:** 20k DAI
 
 ## Future Plans
 Please include the team's long-term plans and intentions.

@@ -21,7 +21,7 @@ Please provide the following:
   * An indication of how you will integrate this project into Substrate / Polkadot / Kusama.
   We're going to build the project on Substrate after successfully launching on the Ethereum network. Our on-chain governance will be implemented on polkadot
   * An indication of why your team is interested in creating this project.
-  We found something that can add value to the crypto space and a unique approach to the oracle, and we're very eager to make it happen. 
+We want to add value to the crypto and Polkadot ecosystem by implementing a prediction market protocol with user incentives and filling gaps in the current oracle solutions available by introducing an oracle as a service.
 
 ### Project Details 
 We expect the teams to already have a solid idea about the project's expected final state.

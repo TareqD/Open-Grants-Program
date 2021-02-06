@@ -92,7 +92,7 @@ ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is pla
 * **Full-time equivalent (FTE):**  3 FTE
 * **Total Costs:** 50k DAI
 
-### Milestone 1: Implementation of protocole
+### Milestone 1: Porting the OptionRoom protocol to polkadot
 * **Estimated Duration:** 3 months
 * **FTE:**  3
 * **Costs:** 30k DAI
@@ -103,12 +103,14 @@ ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is pla
 * **Costs:** 20k DAI
 
 ## Future Plans
-Please include the team's long-term plans and intentions.
+We aim to retain and grow our current community base while having them honestly participate in our protocol. We aim to develop and explore more product launches on the OptionRoom protocol such as polls, dispute resolution mechanisms, decentralised surveys and curated lists - these all fall under current ground base of OptionRoom’s architecture.
 
 ## Additional Information :heavy_plus_sign: 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
 Possible additional information to include:
 * What work has been done so far?
+Concept design, System architecture design, Development plan, Community base, Investor relations, Business development, Polkadot reasearch and developer relations.
 * Are there are any teams who have already contributed (financially) to the project?
+
 * Have you applied for other grants so far?

@@ -97,6 +97,14 @@ ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is pla
 * **FTE:**  3
 * **Costs:** 30k DAI
 
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 1. | Governance: | Implementing Governance on Substrate. |
+| 2. | Forecast market : | Porting Forecast market protocol. Including creation of proposals pools and options tokens. |
+| 3. | Oaas : | Implementing Oracle as service with Substrate. |
+| 4. | User incentives | Implementation of user incentives With Substrate. |
+| 5. | Docker Container | We will provide a docker container |
+
 ### Milestone 2: Web UI, Documentation & Tutorials
 * **Estimated Duration:** 2 months
 * **FTE:**  3

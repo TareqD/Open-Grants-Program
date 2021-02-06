@@ -74,18 +74,12 @@ https://www.linkedin.com/in/0xchristom/ (Advisor)
 
 ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is planning to launch COURT mining in March 2021. Protocol launch is scheduled to be in early Q2 2021 on Etherium in addition to smart contract audits and reward reduction phase. OptionRoom is planned to be ported to Polkadot in Q3/Q4 2021 depending on the timeline of synthetic asset solutions in the Polkadot ecosystem.
 
-* **Q1 2021:
-* Development Phase 1: MVP
-* Token Generation Event: ROOM
-* Staking Launch v1
-* **Q2 2021:
-* Protocol Launch
-* Governance Portal Launch
-* Bug Bounty/Audits
-* Staking Launch v2
-* **Q3 2022:
-* Polkadot integration
-* Protocol launch v2 On Polkadot
+* **Q3 2021:
+* Governance launch
+* Forecast market launch
+* **Q4 2022:
+* OaaS launch
+* Website launch
 
 ### Overview
 * **Total Estimated Duration:** 5 Months
@@ -99,9 +93,9 @@ ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is pla
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 1. | Governance: | Implementing Governance on Substrate. |
-| 2. | Forecast market : | Porting Forecast market protocol. Including creation of proposals pools and options tokens. |
-| 3. | Oaas : | Implementing Oracle as service with Substrate. |
+| 1. | Governance | Implementing Governance on Substrate. |
+| 2. | Forecast market | Porting Forecast market protocol. Including creation of proposals pools and options tokens. |
+| 3. | Oaas | Implementing Oracle as service with Substrate. |
 | 4. | User incentives | Implementation of user incentives With Substrate. |
 | 5. | Docker Container | We will provide a docker container |
 
@@ -109,6 +103,12 @@ ROOM is planned to be unlocked and trade-able in January 2021. OptionRoom is pla
 * **Estimated Duration:** 2 months
 * **FTE:**  3
 * **Costs:** 20k DAI
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 1. | Provide our Web UI | Convert mockups into working websites and connect them to full nodes using polkdotjs API |
+| 2. | API Documentation | Documentation of APIs |
+| 3. | User Tutorial | A Simple tutorial on how to create proposals and how to vote |
 
 ## Future Plans
 We aim to retain and grow our current community base while having them honestly participate in our protocol. We aim to develop and explore more product launches on the OptionRoom protocol such as polls, dispute resolution mechanisms, decentralised surveys and curated lists - these all fall under current ground base of OptionRoom’s architecture.
